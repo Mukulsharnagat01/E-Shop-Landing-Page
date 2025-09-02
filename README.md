@@ -26,6 +26,7 @@ CSS3
 
 
 📂 Project Structure
+
 Amazon-Clone-Page/
 │── index.html  
 │── style.css  
