@@ -28,6 +28,7 @@ CSS3
 📂 Project Structure
 
 Amazon-Clone-Page/
+
 │── index.html  
 │── style.css  
 │── /images (contains all project images)  
