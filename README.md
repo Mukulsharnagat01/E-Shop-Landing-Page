@@ -21,13 +21,13 @@ HTML5
 
 CSS3
 
-## 📂 Project Structure
+## 📂 Project Structure                                                                                                                                                                                              
 
-E-Shop-Landing-Page/
-│── index.html
-│── style.css
-│── /images (contains all project images)
-│── README.md
+E-Shop-Landing-Page/                                                                                                                                                                                                 
+│── index.html                                                                                                                                                                                                       
+│── style.css                                                                                                                                                                                                        
+│── /images (contains all project images)                                                                                                                                                                            
+│── README.md                                                                                                                                                                                                         
 
 
 ## 🤝 Contributing
