@@ -308,7 +308,7 @@ ul a {
   align-items: center;
 }
 .logo {
-  background-image: url(amazon_logo.png);
+  background-image: url(E-Shop_logo.png);
   background-size: cover;
   height: 50px;
   width: 100px;
@@ -327,4 +327,5 @@ ul a {
 .copy-right {
   padding-top: 7.2px;
 }
+
 
